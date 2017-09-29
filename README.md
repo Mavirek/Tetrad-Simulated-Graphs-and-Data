@@ -18,6 +18,7 @@ ex. Graph_100_10020_C.txt
 (I apologize for not keeping it consistent with the graph naming scheme)
 
 DataSet_<variableSize>_<sampleSize>_<sampleSize+IterationNum>_<Continuous/Discrete/Mixed>.txt
+
 ex. DataSet_100_500_518_M.txt
 	
 	* Variable Size = 100
@@ -26,7 +27,9 @@ ex. DataSet_100_500_518_M.txt
 	* Data Type = Mixed
 	
 - Estimated Graphs:
+
 <Algorithm>_DataSet_<variableSize>_<sampleSize+IterationNum>.txt
+
 ex. CPC_DataSet_50_107.txt
 
 	* Variable Size = 50

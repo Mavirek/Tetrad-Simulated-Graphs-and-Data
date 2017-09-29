@@ -39,7 +39,7 @@ ex. CPC_DataSet_50_107.txt
 	* Data Type = Continuous (Depends on which folder the estimated graph is from. Different experiments call for different data types.)
 	
 	- Other variations:
-	(Algorithm)\_DataSet\_(varSize)\_(sampleSize+IterationNum)\_(Alpha or Penalty value).txt
+	(Algorithm)_DataSet_(varSize)_(sampleSize+IterationNum)_(Alpha or Penalty value).txt
 
 	
 	

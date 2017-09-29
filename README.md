@@ -6,6 +6,7 @@ File Name Scheme:
 - True Graphs:
 
 Graph_<variableSize>_<sampleSize+GraphNum>_<Continuous/Discrete/Mixed>.txt
+
 ex. Graph_100_10020_C.txt
 
 	* Variable Size = 100

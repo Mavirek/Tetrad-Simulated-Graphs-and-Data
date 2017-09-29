@@ -5,7 +5,7 @@ File Name Scheme:
 
 - True Graphs:
 
-Graph_<var-Size>_<sampleSize+GraphNum>_<Continuous/Discrete/Mixed>.txt
+Graph_(varSize)_(sampleSize+GraphNum)_(Continuous/Discrete/Mixed).txt
 
 ex. Graph_100_10020_C.txt
 
@@ -18,7 +18,7 @@ ex. Graph_100_10020_C.txt
 
 (I apologize for not keeping it consistent with the graph naming scheme)
 
-DataSet_<var-Size>_<sampleSize>_<sampleSize+IterationNum>_<Continuous/Discrete/Mixed>.txt
+DataSet_(varSize)_(sampleSize)_(sampleSize+IterationNum)_(Continuous/Discrete/Mixed).txt
 
 ex. DataSet_100_500_518_M.txt
 	
@@ -29,7 +29,7 @@ ex. DataSet_100_500_518_M.txt
 	
 - Estimated Graphs:
 
-<Algorithm>_DataSet_<var-Size>_<sampleSize+IterationNum>.txt
+(Algorithm)_DataSet_(varSize)_(sampleSize+IterationNum).txt
 
 ex. CPC_DataSet_50_107.txt
 

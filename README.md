@@ -4,32 +4,35 @@ Contains true graphs, estimated graphs, and datasets (continuous, discrete, mixe
 File Name Scheme:
 
 - True Graphs:
+
 Graph_<variableSize>_<sampleSize+GraphNum>_<Continuous/Discrete/Mixed>.txt
 ex. Graph_100_10020_C.txt
 
-* Variable Size = 100
-* Sample Size = 10000
-* Graph Number = 20
-* Data Type = Continuous
+	* Variable Size = 100
+	* Sample Size = 10000
+	* Graph Number = 20
+	* Data Type = Continuous
 
 - Data Sets:
+
 (I apologize for not keeping it consistent with the graph naming scheme)
+
 DataSet_<variableSize>_<sampleSize>_<sampleSize+IterationNum>_<Continuous/Discrete/Mixed>.txt
 ex. DataSet_100_500_518_M.txt
 	
-* Variable Size = 100
-* Sample Size = 500
-* Iteration Num = 18
-* Data Type = Mixed
+	* Variable Size = 100
+	* Sample Size = 500
+	* Iteration Num = 18
+	* Data Type = Mixed
 	
 - Estimated Graphs:
 <Algorithm>_DataSet_<variableSize>_<sampleSize+IterationNum>.txt
 ex. CPC_DataSet_50_107.txt
 
-* Variable Size = 50
-* Sample Size = 100
-* Iteration Num = 7
-* Data Type = Continuous (Depends on which folder the estimated graph is from. Different experiments call for different data types.)
+	* Variable Size = 50
+	* Sample Size = 100
+	* Iteration Num = 7
+	* Data Type = Continuous (Depends on which folder the estimated graph is from. Different experiments call for different data types.)
 	
 	
 Folders and their contents:

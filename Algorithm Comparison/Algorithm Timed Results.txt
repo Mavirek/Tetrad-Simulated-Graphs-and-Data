@@ -1,0 +1,801 @@
+GraphID, DataSetID, Algorithm, Elapsed Time
+Graph_101, DataSet_100_101, CPC Stable, 0.043262053 s
+Graph_102, DataSet_100_102, CPC Stable, 0.029041654 s
+Graph_103, DataSet_100_103, CPC Stable, 0.037168819 s
+Graph_104, DataSet_100_104, CPC Stable, 0.029638661 s
+Graph_105, DataSet_100_105, CPC Stable, 0.022825254 s
+Graph_106, DataSet_100_106, CPC Stable, 0.031836383 s
+Graph_107, DataSet_100_107, CPC Stable, 0.023057471 s
+Graph_108, DataSet_100_108, CPC Stable, 0.028956978 s
+Graph_109, DataSet_100_109, CPC Stable, 0.027777504 s
+Graph_110, DataSet_100_110, CPC Stable, 0.027495252 s
+Graph_111, DataSet_100_111, CPC Stable, 0.030500387 s
+Graph_112, DataSet_100_112, CPC Stable, 0.026605301 s
+Graph_113, DataSet_100_113, CPC Stable, 0.026175935 s
+Graph_114, DataSet_100_114, CPC Stable, 0.026183206 s
+Graph_115, DataSet_100_115, CPC Stable, 0.027700099 s
+Graph_116, DataSet_100_116, CPC Stable, 0.027188196 s
+Graph_117, DataSet_100_117, CPC Stable, 0.026820839 s
+Graph_118, DataSet_100_118, CPC Stable, 0.030644934 s
+Graph_119, DataSet_100_119, CPC Stable, 0.02561314 s
+Graph_120, DataSet_100_120, CPC Stable, 0.025207723 s
+Graph_101, DataSet_100_101, PC Max, 0.041023705 s
+Graph_101, DataSet_100_101, PC Stable, 0.032182783 s
+Graph_102, DataSet_100_102, PC Max, 0.028728183 s
+Graph_102, DataSet_100_102, PC Stable, 0.028540442 s
+Graph_103, DataSet_100_103, PC Max, 0.026157118 s
+Graph_103, DataSet_100_103, PC Stable, 0.025818415 s
+Graph_104, DataSet_100_104, PC Max, 0.030347714 s
+Graph_104, DataSet_100_104, PC Stable, 0.02512262 s
+Graph_105, DataSet_100_105, PC Max, 0.022065738 s
+Graph_105, DataSet_100_105, PC Stable, 0.020544995 s
+Graph_106, DataSet_100_106, PC Max, 0.029765675 s
+Graph_106, DataSet_100_106, PC Stable, 0.025665315 s
+Graph_107, DataSet_100_107, PC Max, 0.02280601 s
+Graph_107, DataSet_100_107, PC Stable, 0.022763244 s
+Graph_108, DataSet_100_108, PC Max, 0.027384917 s
+Graph_108, DataSet_100_108, PC Stable, 0.025785485 s
+Graph_109, DataSet_100_109, PC Max, 0.026448779 s
+Graph_109, DataSet_100_109, PC Stable, 0.024795463 s
+Graph_110, DataSet_100_110, PC Max, 0.024975078 s
+Graph_110, DataSet_100_110, PC Stable, 0.023028818 s
+Graph_111, DataSet_100_111, PC Max, 0.028717919 s
+Graph_111, DataSet_100_111, PC Stable, 0.025203874 s
+Graph_112, DataSet_100_112, PC Max, 0.028894113 s
+Graph_112, DataSet_100_112, PC Stable, 0.02070836 s
+Graph_113, DataSet_100_113, PC Max, 0.025681992 s
+Graph_113, DataSet_100_113, PC Stable, 0.02202169 s
+Graph_114, DataSet_100_114, PC Max, 0.025250488 s
+Graph_114, DataSet_100_114, PC Stable, 0.023907223 s
+Graph_115, DataSet_100_115, PC Max, 0.028455766 s
+Graph_115, DataSet_100_115, PC Stable, 0.022173079 s
+Graph_116, DataSet_100_116, PC Max, 0.02645605 s
+Graph_116, DataSet_100_116, PC Stable, 0.024283987 s
+Graph_117, DataSet_100_117, PC Max, 0.025184202 s
+Graph_117, DataSet_100_117, PC Stable, 0.024105654 s
+Graph_118, DataSet_100_118, PC Max, 0.028850065 s
+Graph_118, DataSet_100_118, PC Stable, 0.027604304 s
+Graph_119, DataSet_100_119, PC Max, 0.023337158 s
+Graph_119, DataSet_100_119, PC Stable, 0.022265026 s
+Graph_120, DataSet_100_120, PC Max, 0.024102661 s
+Graph_120, DataSet_100_120, PC Stable, 0.022091398 s
+Graph_101, DataSet_100_101, FGES, 0.005697226 s
+Graph_102, DataSet_100_102, FGES, 0.004898793 s
+Graph_103, DataSet_100_103, FGES, 0.004794873 s
+Graph_104, DataSet_100_104, FGES, 0.004618252 s
+Graph_105, DataSet_100_105, FGES, 0.004628515 s
+Graph_106, DataSet_100_106, FGES, 0.006191596 s
+Graph_107, DataSet_100_107, FGES, 0.004869285 s
+Graph_108, DataSet_100_108, FGES, 0.00469865 s
+Graph_109, DataSet_100_109, FGES, 0.00477905 s
+Graph_110, DataSet_100_110, FGES, 0.00471148 s
+Graph_111, DataSet_100_111, FGES, 0.004722172 s
+Graph_112, DataSet_100_112, FGES, 0.004468572 s
+Graph_113, DataSet_100_113, FGES, 0.004592164 s
+Graph_114, DataSet_100_114, FGES, 0.006049187 s
+Graph_115, DataSet_100_115, FGES, 0.0044489 s
+Graph_116, DataSet_100_116, FGES, 0.004604994 s
+Graph_117, DataSet_100_117, FGES, 0.00458746 s
+Graph_118, DataSet_100_118, FGES, 0.004570781 s
+Graph_119, DataSet_100_119, FGES, 0.00458746 s
+Graph_120, DataSet_100_120, FGES, 0.004654602 s
+Graph_1001, DataSet_100_1001, CPC Stable, 0.059100273 s
+Graph_1002, DataSet_100_1002, CPC Stable, 0.056590791 s
+Graph_1003, DataSet_100_1003, CPC Stable, 0.068314537 s
+Graph_1004, DataSet_100_1004, CPC Stable, 0.071660941 s
+Graph_1005, DataSet_100_1005, CPC Stable, 0.084497875 s
+Graph_1006, DataSet_100_1006, CPC Stable, 0.068998359 s
+Graph_1007, DataSet_100_1007, CPC Stable, 0.058271049 s
+Graph_1008, DataSet_100_1008, CPC Stable, 0.051448662 s
+Graph_1009, DataSet_100_1009, CPC Stable, 0.062462072 s
+Graph_1010, DataSet_100_1010, CPC Stable, 0.067333068 s
+Graph_1011, DataSet_100_1011, CPC Stable, 0.083626313 s
+Graph_1012, DataSet_100_1012, CPC Stable, 0.066122803 s
+Graph_1013, DataSet_100_1013, CPC Stable, 0.074781543 s
+Graph_1014, DataSet_100_1014, CPC Stable, 0.070664076 s
+Graph_1015, DataSet_100_1015, CPC Stable, 0.077675059 s
+Graph_1016, DataSet_100_1016, CPC Stable, 0.065837984 s
+Graph_1017, DataSet_100_1017, CPC Stable, 0.062039977 s
+Graph_1018, DataSet_100_1018, CPC Stable, 0.065447535 s
+Graph_1019, DataSet_100_1019, CPC Stable, 0.06376129 s
+Graph_1020, DataSet_100_1020, CPC Stable, 0.077129799 s
+Graph_1001, DataSet_100_1001, PC Max, 0.036889131 s
+Graph_1001, DataSet_100_1001, PC Stable, 0.05849899 s
+Graph_1002, DataSet_100_1002, PC Max, 0.051510671 s
+Graph_1002, DataSet_100_1002, PC Stable, 0.049034118 s
+Graph_1003, DataSet_100_1003, PC Max, 0.048605608 s
+Graph_1003, DataSet_100_1003, PC Stable, 0.059054086 s
+Graph_1004, DataSet_100_1004, PC Max, 0.042022707 s
+Graph_1004, DataSet_100_1004, PC Stable, 0.062150312 s
+Graph_1005, DataSet_100_1005, PC Max, 0.053849519 s
+Graph_1005, DataSet_100_1005, PC Stable, 0.064164569 s
+Graph_1006, DataSet_100_1006, PC Max, 0.051120222 s
+Graph_1006, DataSet_100_1006, PC Stable, 0.069278045 s
+Graph_1007, DataSet_100_1007, PC Max, 0.037639667 s
+Graph_1007, DataSet_100_1007, PC Stable, 0.044403466 s
+Graph_1008, DataSet_100_1008, PC Max, 0.030981927 s
+Graph_1008, DataSet_100_1008, PC Stable, 0.045422141 s
+Graph_1009, DataSet_100_1009, PC Max, 0.037669175 s
+Graph_1009, DataSet_100_1009, PC Stable, 0.054605614 s
+Graph_1010, DataSet_100_1010, PC Max, 0.042712944 s
+Graph_1010, DataSet_100_1010, PC Stable, 0.052435691 s
+Graph_1011, DataSet_100_1011, PC Max, 0.049373677 s
+Graph_1011, DataSet_100_1011, PC Stable, 0.058855226 s
+Graph_1012, DataSet_100_1012, PC Max, 0.03874986 s
+Graph_1012, DataSet_100_1012, PC Stable, 0.060989226 s
+Graph_1013, DataSet_100_1013, PC Max, 0.05454061 s
+Graph_1013, DataSet_100_1013, PC Stable, 0.056816592 s
+Graph_1014, DataSet_100_1014, PC Max, 0.045159988 s
+Graph_1014, DataSet_100_1014, PC Stable, 0.06045979 s
+Graph_1015, DataSet_100_1015, PC Max, 0.062113961 s
+Graph_1015, DataSet_100_1015, PC Stable, 0.062606192 s
+Graph_1016, DataSet_100_1016, PC Max, 0.05188487 s
+Graph_1016, DataSet_100_1016, PC Stable, 0.056555722 s
+Graph_1017, DataSet_100_1017, PC Max, 0.051292995 s
+Graph_1017, DataSet_100_1017, PC Stable, 0.05274403 s
+Graph_1018, DataSet_100_1018, PC Max, 0.051475603 s
+Graph_1018, DataSet_100_1018, PC Stable, 0.053879027 s
+Graph_1019, DataSet_100_1019, PC Max, 0.046469469 s
+Graph_1019, DataSet_100_1019, PC Stable, 0.050583086 s
+Graph_1020, DataSet_100_1020, PC Max, 0.043963836 s
+Graph_1020, DataSet_100_1020, PC Stable, 0.072119387 s
+Graph_1001, DataSet_100_1001, FGES, 0.074272205 s
+Graph_1002, DataSet_100_1002, FGES, 0.069272058 s
+Graph_1003, DataSet_100_1003, FGES, 0.059918806 s
+Graph_1004, DataSet_100_1004, FGES, 0.087633872 s
+Graph_1005, DataSet_100_1005, FGES, 0.034867604 s
+Graph_1006, DataSet_100_1006, FGES, 0.05173348 s
+Graph_1007, DataSet_100_1007, FGES, 0.03931351 s
+Graph_1008, DataSet_100_1008, FGES, 0.046092277 s
+Graph_1009, DataSet_100_1009, FGES, 0.062849528 s
+Graph_1010, DataSet_100_1010, FGES, 0.049140605 s
+Graph_1011, DataSet_100_1011, FGES, 0.049508389 s
+Graph_1012, DataSet_100_1012, FGES, 0.051124071 s
+Graph_1013, DataSet_100_1013, FGES, 0.048439678 s
+Graph_1014, DataSet_100_1014, FGES, 0.043114084 s
+Graph_1015, DataSet_100_1015, FGES, 0.039700967 s
+Graph_1016, DataSet_100_1016, FGES, 0.043242809 s
+Graph_1017, DataSet_100_1017, FGES, 0.038079296 s
+Graph_1018, DataSet_100_1018, FGES, 0.039529048 s
+Graph_1019, DataSet_100_1019, FGES, 0.045261342 s
+Graph_1020, DataSet_100_1020, FGES, 0.040448508 s
+Graph_3001, DataSet_100_3001, CPC Stable, 0.067426725 s
+Graph_3002, DataSet_100_3002, CPC Stable, 0.074475769 s
+Graph_3003, DataSet_100_3003, CPC Stable, 0.081219468 s
+Graph_3004, DataSet_100_3004, CPC Stable, 0.077591667 s
+Graph_3005, DataSet_100_3005, CPC Stable, 0.06772309 s
+Graph_3006, DataSet_100_3006, CPC Stable, 0.067809476 s
+Graph_3007, DataSet_100_3007, CPC Stable, 0.073872775 s
+Graph_3008, DataSet_100_3008, CPC Stable, 0.08211669 s
+Graph_3009, DataSet_100_3009, CPC Stable, 0.076074346 s
+Graph_3010, DataSet_100_3010, CPC Stable, 0.085369865 s
+Graph_3011, DataSet_100_3011, CPC Stable, 0.066837415 s
+Graph_3012, DataSet_100_3012, CPC Stable, 0.068882464 s
+Graph_3013, DataSet_100_3013, CPC Stable, 0.077077625 s
+Graph_3014, DataSet_100_3014, CPC Stable, 0.073030721 s
+Graph_3015, DataSet_100_3015, CPC Stable, 0.092987263 s
+Graph_3016, DataSet_100_3016, CPC Stable, 0.079720964 s
+Graph_3017, DataSet_100_3017, CPC Stable, 0.072160442 s
+Graph_3018, DataSet_100_3018, CPC Stable, 0.073520815 s
+Graph_3019, DataSet_100_3019, CPC Stable, 0.061708971 s
+Graph_3020, DataSet_100_3020, CPC Stable, 0.078814334 s
+Graph_3001, DataSet_100_3001, PC Max, 0.041585643 s
+Graph_3001, DataSet_100_3001, PC Stable, 0.0750685 s
+Graph_3002, DataSet_100_3002, PC Max, 0.043064904 s
+Graph_3002, DataSet_100_3002, PC Stable, 0.057957149 s
+Graph_3003, DataSet_100_3003, PC Max, 0.060124935 s
+Graph_3003, DataSet_100_3003, PC Stable, 0.064077327 s
+Graph_3004, DataSet_100_3004, PC Max, 0.06489757 s
+Graph_3004, DataSet_100_3004, PC Stable, 0.065600208 s
+Graph_3005, DataSet_100_3005, PC Max, 0.044254214 s
+Graph_3005, DataSet_100_3005, PC Stable, 0.061549028 s
+Graph_3006, DataSet_100_3006, PC Max, 0.044518505 s
+Graph_3006, DataSet_100_3006, PC Stable, 0.061506262 s
+Graph_3007, DataSet_100_3007, PC Max, 0.04896826 s
+Graph_3007, DataSet_100_3007, PC Stable, 0.063062501 s
+Graph_3008, DataSet_100_3008, PC Max, 0.052377957 s
+Graph_3008, DataSet_100_3008, PC Stable, 0.063086022 s
+Graph_3009, DataSet_100_3009, PC Max, 0.051928063 s
+Graph_3009, DataSet_100_3009, PC Stable, 0.06550869 s
+Graph_3010, DataSet_100_3010, PC Max, 0.062622871 s
+Graph_3010, DataSet_100_3010, PC Stable, 0.065940194 s
+Graph_3011, DataSet_100_3011, PC Max, 0.060246817 s
+Graph_3011, DataSet_100_3011, PC Stable, 0.057516665 s
+Graph_3012, DataSet_100_3012, PC Max, 0.045301542 s
+Graph_3012, DataSet_100_3012, PC Stable, 0.058983522 s
+Graph_3013, DataSet_100_3013, PC Max, 0.059315811 s
+Graph_3013, DataSet_100_3013, PC Stable, 0.066594079 s
+Graph_3014, DataSet_100_3014, PC Max, 0.048732194 s
+Graph_3014, DataSet_100_3014, PC Stable, 0.063725794 s
+Graph_3015, DataSet_100_3015, PC Max, 0.055119228 s
+Graph_3015, DataSet_100_3015, PC Stable, 0.061029427 s
+Graph_3016, DataSet_100_3016, PC Max, 0.051486723 s
+Graph_3016, DataSet_100_3016, PC Stable, 0.116953503 s
+Graph_3017, DataSet_100_3017, PC Max, 0.06212679 s
+Graph_3017, DataSet_100_3017, PC Stable, 0.08856445 s
+Graph_3018, DataSet_100_3018, PC Max, 0.066124941 s
+Graph_3018, DataSet_100_3018, PC Stable, 0.077144767 s
+Graph_3019, DataSet_100_3019, PC Max, 0.057199345 s
+Graph_3019, DataSet_100_3019, PC Stable, 0.079981406 s
+Graph_3020, DataSet_100_3020, PC Max, 0.063709971 s
+Graph_3020, DataSet_100_3020, PC Stable, 0.087573573 s
+Graph_3001, DataSet_100_3001, FGES, 0.433900077 s
+Graph_3002, DataSet_100_3002, FGES, 0.377250697 s
+Graph_3003, DataSet_100_3003, FGES, 0.444270294 s
+Graph_3004, DataSet_100_3004, FGES, 0.402943809 s
+Graph_3005, DataSet_100_3005, FGES, 0.344909254 s
+Graph_3006, DataSet_100_3006, FGES, 0.338706111 s
+Graph_3007, DataSet_100_3007, FGES, 0.402698762 s
+Graph_3008, DataSet_100_3008, FGES, 0.333350582 s
+Graph_3009, DataSet_100_3009, FGES, 0.442696522 s
+Graph_3010, DataSet_100_3010, FGES, 0.342182094 s
+Graph_3011, DataSet_100_3011, FGES, 0.336935618 s
+Graph_3012, DataSet_100_3012, FGES, 0.306748703 s
+Graph_3013, DataSet_100_3013, FGES, 0.408309602 s
+Graph_3014, DataSet_100_3014, FGES, 0.462596185 s
+Graph_3015, DataSet_100_3015, FGES, 0.322947863 s
+Graph_3016, DataSet_100_3016, FGES, 0.304453903 s
+Graph_3017, DataSet_100_3017, FGES, 0.536949645 s
+Graph_3018, DataSet_100_3018, FGES, 0.269600411 s
+Graph_3019, DataSet_100_3019, FGES, 0.256915723 s
+Graph_3020, DataSet_100_3020, FGES, 0.402832619 s
+Graph_5001, DataSet_100_5001, CPC Stable, 0.021683842 s
+Graph_5002, DataSet_100_5002, CPC Stable, 0.019213705 s
+Graph_5003, DataSet_100_5003, CPC Stable, 0.020436798 s
+Graph_5004, DataSet_100_5004, CPC Stable, 0.024143289 s
+Graph_5005, DataSet_100_5005, CPC Stable, 0.019132877 s
+Graph_5006, DataSet_100_5006, CPC Stable, 0.020253335 s
+Graph_5007, DataSet_100_5007, CPC Stable, 0.020232808 s
+Graph_5008, DataSet_100_5008, CPC Stable, 0.021535446 s
+Graph_5009, DataSet_100_5009, CPC Stable, 0.020921332 s
+Graph_5010, DataSet_100_5010, CPC Stable, 0.018715058 s
+Graph_5011, DataSet_100_5011, CPC Stable, 0.021832666 s
+Graph_5012, DataSet_100_5012, CPC Stable, 0.01787386 s
+Graph_5013, DataSet_100_5013, CPC Stable, 0.019479706 s
+Graph_5014, DataSet_100_5014, CPC Stable, 0.019139292 s
+Graph_5015, DataSet_100_5015, CPC Stable, 0.020916628 s
+Graph_5016, DataSet_100_5016, CPC Stable, 0.018582912 s
+Graph_5017, DataSet_100_5017, CPC Stable, 0.019206862 s
+Graph_5018, DataSet_100_5018, CPC Stable, 0.018488828 s
+Graph_5019, DataSet_100_5019, CPC Stable, 0.017802869 s
+Graph_5020, DataSet_100_5020, CPC Stable, 0.024112497 s
+Graph_5001, DataSet_100_5001, PC Max, 0.02050052 s
+Graph_5001, DataSet_100_5001, PC Stable, 0.01603708 s
+Graph_5002, DataSet_100_5002, PC Max, 0.022864598 s
+Graph_5002, DataSet_100_5002, PC Stable, 0.015206145 s
+Graph_5003, DataSet_100_5003, PC Max, 0.020784055 s
+Graph_5003, DataSet_100_5003, PC Stable, 0.01476395 s
+Graph_5004, DataSet_100_5004, PC Max, 0.019711068 s
+Graph_5004, DataSet_100_5004, PC Stable, 0.01500087 s
+Graph_5005, DataSet_100_5005, PC Max, 0.01949168 s
+Graph_5005, DataSet_100_5005, PC Stable, 0.015868156 s
+Graph_5006, DataSet_100_5006, PC Max, 0.021518339 s
+Graph_5006, DataSet_100_5006, PC Stable, 0.015529025 s
+Graph_5007, DataSet_100_5007, PC Max, 0.020575359 s
+Graph_5007, DataSet_100_5007, PC Stable, 0.015519189 s
+Graph_5008, DataSet_100_5008, PC Max, 0.020417982 s
+Graph_5008, DataSet_100_5008, PC Stable, 0.018500803 s
+Graph_5009, DataSet_100_5009, PC Max, 0.021172793 s
+Graph_5009, DataSet_100_5009, PC Stable, 0.018765094 s
+Graph_5010, DataSet_100_5010, PC Max, 0.019752977 s
+Graph_5010, DataSet_100_5010, PC Stable, 0.014777634 s
+Graph_5011, DataSet_100_5011, PC Max, 0.020369657 s
+Graph_5011, DataSet_100_5011, PC Stable, 0.016248769 s
+Graph_5012, DataSet_100_5012, PC Max, 0.019088401 s
+Graph_5012, DataSet_100_5012, PC Stable, 0.014038218 s
+Graph_5013, DataSet_100_5013, PC Max, 0.019592179 s
+Graph_5013, DataSet_100_5013, PC Stable, 0.015908355 s
+Graph_5014, DataSet_100_5014, PC Max, 0.018461886 s
+Graph_5014, DataSet_100_5014, PC Stable, 0.015138148 s
+Graph_5015, DataSet_100_5015, PC Max, 0.020283271 s
+Graph_5015, DataSet_100_5015, PC Stable, 0.015657749 s
+Graph_5016, DataSet_100_5016, PC Max, 0.019864168 s
+Graph_5016, DataSet_100_5016, PC Stable, 0.014924748 s
+Graph_5017, DataSet_100_5017, PC Max, 0.019438223 s
+Graph_5017, DataSet_100_5017, PC Stable, 0.014690392 s
+Graph_5018, DataSet_100_5018, PC Max, 0.018413988 s
+Graph_5018, DataSet_100_5018, PC Stable, 0.016163238 s
+Graph_5019, DataSet_100_5019, PC Max, 0.018936155 s
+Graph_5019, DataSet_100_5019, PC Stable, 0.016315056 s
+Graph_5020, DataSet_100_5020, PC Max, 0.019425821 s
+Graph_5020, DataSet_100_5020, PC Stable, 0.017657894 s
+Graph_5001, DataSet_100_5001, FGES, 0.200169694 s
+Graph_5002, DataSet_100_5002, FGES, 0.202930637 s
+Graph_5003, DataSet_100_5003, FGES, 0.183249934 s
+Graph_5004, DataSet_100_5004, FGES, 0.189179804 s
+Graph_5005, DataSet_100_5005, FGES, 0.258352218 s
+Graph_5006, DataSet_100_5006, FGES, 0.236177 s
+Graph_5007, DataSet_100_5007, FGES, 0.22270457 s
+Graph_5008, DataSet_100_5008, FGES, 0.239781708 s
+Graph_5009, DataSet_100_5009, FGES, 0.21124597 s
+Graph_5010, DataSet_100_5010, FGES, 0.223017187 s
+Graph_5011, DataSet_100_5011, FGES, 0.192571967 s
+Graph_5012, DataSet_100_5012, FGES, 0.273108469 s
+Graph_5013, DataSet_100_5013, FGES, 0.27628766 s
+Graph_5014, DataSet_100_5014, FGES, 0.282242334 s
+Graph_5015, DataSet_100_5015, FGES, 0.19169399 s
+Graph_5016, DataSet_100_5016, FGES, 0.226787397 s
+Graph_5017, DataSet_100_5017, FGES, 0.273917593 s
+Graph_5018, DataSet_100_5018, FGES, 0.201088725 s
+Graph_5019, DataSet_100_5019, FGES, 0.218685464 s
+Graph_5020, DataSet_100_5020, FGES, 0.288897936 s
+Graph_10001, DataSet_100_10001, CPC Stable, 0.127973755 s
+Graph_10002, DataSet_100_10002, CPC Stable, 0.121938254 s
+Graph_10003, DataSet_100_10003, CPC Stable, 0.10391557 s
+Graph_10004, DataSet_100_10004, CPC Stable, 0.098744789 s
+Graph_10005, DataSet_100_10005, CPC Stable, 0.095090473 s
+Graph_10006, DataSet_100_10006, CPC Stable, 0.092806792 s
+Graph_10007, DataSet_100_10007, CPC Stable, 0.086681484 s
+Graph_10008, DataSet_100_10008, CPC Stable, 0.089489041 s
+Graph_10009, DataSet_100_10009, CPC Stable, 0.111474808 s
+Graph_10010, DataSet_100_10010, CPC Stable, 0.087170721 s
+Graph_10011, DataSet_100_10011, CPC Stable, 0.146675556 s
+Graph_10012, DataSet_100_10012, CPC Stable, 0.106055986 s
+Graph_10013, DataSet_100_10013, CPC Stable, 0.095479639 s
+Graph_10014, DataSet_100_10014, CPC Stable, 0.087467087 s
+Graph_10015, DataSet_100_10015, CPC Stable, 0.092505295 s
+Graph_10016, DataSet_100_10016, CPC Stable, 0.094874934 s
+Graph_10017, DataSet_100_10017, CPC Stable, 0.091752622 s
+Graph_10018, DataSet_100_10018, CPC Stable, 0.09766838 s
+Graph_10019, DataSet_100_10019, CPC Stable, 0.095940652 s
+Graph_10020, DataSet_100_10020, CPC Stable, 0.104372306 s
+Graph_10001, DataSet_100_10001, PC Max, 0.088324108 s
+Graph_10001, DataSet_100_10001, PC Stable, 0.088498164 s
+Graph_10002, DataSet_100_10002, PC Max, 0.086696451 s
+Graph_10002, DataSet_100_10002, PC Stable, 0.078089457 s
+Graph_10003, DataSet_100_10003, PC Max, 0.0757087 s
+Graph_10003, DataSet_100_10003, PC Stable, 0.074817466 s
+Graph_10004, DataSet_100_10004, PC Max, 0.062955159 s
+Graph_10004, DataSet_100_10004, PC Stable, 0.070857377 s
+Graph_10005, DataSet_100_10005, PC Max, 0.079597798 s
+Graph_10005, DataSet_100_10005, PC Stable, 0.076118394 s
+Graph_10006, DataSet_100_10006, PC Max, 0.07229943 s
+Graph_10006, DataSet_100_10006, PC Stable, 0.072108696 s
+Graph_10007, DataSet_100_10007, PC Max, 0.064281746 s
+Graph_10007, DataSet_100_10007, PC Stable, 0.072318248 s
+Graph_10008, DataSet_100_10008, PC Max, 0.068656662 s
+Graph_10008, DataSet_100_10008, PC Stable, 0.074659233 s
+Graph_10009, DataSet_100_10009, PC Max, 0.079064085 s
+Graph_10009, DataSet_100_10009, PC Stable, 0.066652668 s
+Graph_10010, DataSet_100_10010, PC Max, 0.131115312 s
+Graph_10010, DataSet_100_10010, PC Stable, 0.067306553 s
+Graph_10011, DataSet_100_10011, PC Max, 0.23409218 s
+Graph_10011, DataSet_100_10011, PC Stable, 0.076946763 s
+Graph_10012, DataSet_100_10012, PC Max, 0.089912421 s
+Graph_10012, DataSet_100_10012, PC Stable, 0.074671636 s
+Graph_10013, DataSet_100_10013, PC Max, 0.062310255 s
+Graph_10013, DataSet_100_10013, PC Stable, 0.0710464 s
+Graph_10014, DataSet_100_10014, PC Max, 0.059700274 s
+Graph_10014, DataSet_100_10014, PC Stable, 0.078994377 s
+Graph_10015, DataSet_100_10015, PC Max, 0.065034847 s
+Graph_10015, DataSet_100_10015, PC Stable, 0.071430435 s
+Graph_10016, DataSet_100_10016, PC Max, 0.087647129 s
+Graph_10016, DataSet_100_10016, PC Stable, 0.062970982 s
+Graph_10017, DataSet_100_10017, PC Max, 0.064543044 s
+Graph_10017, DataSet_100_10017, PC Stable, 0.07075816 s
+Graph_10018, DataSet_100_10018, PC Max, 0.064077754 s
+Graph_10018, DataSet_100_10018, PC Stable, 0.075356312 s
+Graph_10019, DataSet_100_10019, PC Max, 0.103842441 s
+Graph_10019, DataSet_100_10019, PC Stable, 0.068285456 s
+Graph_10020, DataSet_100_10020, PC Max, 0.069132642 s
+Graph_10020, DataSet_100_10020, PC Stable, 0.069583818 s
+Graph_10001, DataSet_100_10001, FGES, 1.655452543 s
+Graph_10002, DataSet_100_10002, FGES, 2.202842968 s
+Graph_10003, DataSet_100_10003, FGES, 1.491764853 s
+Graph_10004, DataSet_100_10004, FGES, 2.130783879 s
+Graph_10005, DataSet_100_10005, FGES, 1.305254046 s
+Graph_10006, DataSet_100_10006, FGES, 1.854704915 s
+Graph_10007, DataSet_100_10007, FGES, 2.644855241 s
+Graph_10008, DataSet_100_10008, FGES, 1.355956877 s
+Graph_10009, DataSet_100_10009, FGES, 1.733739578 s
+Graph_10010, DataSet_100_10010, FGES, 1.761810454 s
+Graph_10011, DataSet_100_10011, FGES, 1.67001806 s
+Graph_10012, DataSet_100_10012, FGES, 1.262000546 s
+Graph_10013, DataSet_100_10013, FGES, 2.025974937 s
+Graph_10014, DataSet_100_10014, FGES, 1.371616337 s
+Graph_10015, DataSet_100_10015, FGES, 1.722135147 s
+Graph_10016, DataSet_100_10016, FGES, 1.866819539 s
+Graph_10017, DataSet_100_10017, FGES, 1.48837996 s
+Graph_10018, DataSet_100_10018, FGES, 2.015794171 s
+Graph_10019, DataSet_100_10019, FGES, 1.240785842 s
+Graph_10020, DataSet_100_10020, FGES, 1.506408203 s
+Graph_101, DataSet_50_101, CPC Stable, 0.009852754 s
+Graph_102, DataSet_50_102, CPC Stable, 0.012381908 s
+Graph_103, DataSet_50_103, CPC Stable, 0.009822391 s
+Graph_104, DataSet_50_104, CPC Stable, 0.0108586 s
+Graph_105, DataSet_50_105, CPC Stable, 0.008531298 s
+Graph_106, DataSet_50_106, CPC Stable, 0.009323745 s
+Graph_107, DataSet_50_107, CPC Stable, 0.010359098 s
+Graph_108, DataSet_50_108, CPC Stable, 0.011131872 s
+Graph_109, DataSet_50_109, CPC Stable, 0.010056318 s
+Graph_110, DataSet_50_110, CPC Stable, 0.011703647 s
+Graph_111, DataSet_50_111, CPC Stable, 0.010561807 s
+Graph_112, DataSet_50_112, CPC Stable, 0.009815548 s
+Graph_113, DataSet_50_113, CPC Stable, 0.008933295 s
+Graph_114, DataSet_50_114, CPC Stable, 0.010908208 s
+Graph_115, DataSet_50_115, CPC Stable, 0.00881013 s
+Graph_116, DataSet_50_116, CPC Stable, 0.009868577 s
+Graph_117, DataSet_50_117, CPC Stable, 0.009754821 s
+Graph_118, DataSet_50_118, CPC Stable, 0.010254323 s
+Graph_119, DataSet_50_119, CPC Stable, 0.012081694 s
+Graph_120, DataSet_50_120, CPC Stable, 0.008178911 s
+Graph_101, DataSet_50_101, PC Max, 0.008865725 s
+Graph_101, DataSet_50_101, PC Stable, 0.008644628 s
+Graph_102, DataSet_50_102, PC Max, 0.00895425 s
+Graph_102, DataSet_50_102, PC Stable, 0.010887253 s
+Graph_103, DataSet_50_103, PC Max, 0.006627804 s
+Graph_103, DataSet_50_103, PC Stable, 0.008902076 s
+Graph_104, DataSet_50_104, PC Max, 0.008207991 s
+Graph_104, DataSet_50_104, PC Stable, 0.010055462 s
+Graph_105, DataSet_50_105, PC Max, 0.006919465 s
+Graph_105, DataSet_50_105, PC Stable, 0.007631512 s
+Graph_106, DataSet_50_106, PC Max, 0.00669238 s
+Graph_106, DataSet_50_106, PC Stable, 0.008754963 s
+Graph_107, DataSet_50_107, PC Max, 0.00740742 s
+Graph_107, DataSet_50_107, PC Stable, 0.00997549 s
+Graph_108, DataSet_50_108, PC Max, 0.006773635 s
+Graph_108, DataSet_50_108, PC Stable, 0.00825204 s
+Graph_109, DataSet_50_109, PC Max, 0.010154678 s
+Graph_109, DataSet_50_109, PC Stable, 0.009362661 s
+Graph_110, DataSet_50_110, PC Max, 0.00928611 s
+Graph_110, DataSet_50_110, PC Stable, 0.008760949 s
+Graph_111, DataSet_50_111, PC Max, 0.00712303 s
+Graph_111, DataSet_50_111, PC Stable, 0.009516617 s
+Graph_112, DataSet_50_112, PC Max, 0.008510344 s
+Graph_112, DataSet_50_112, PC Stable, 0.008272567 s
+Graph_113, DataSet_50_113, PC Max, 0.006684254 s
+Graph_113, DataSet_50_113, PC Stable, 0.008883686 s
+Graph_114, DataSet_50_114, PC Max, 0.007853465 s
+Graph_114, DataSet_50_114, PC Stable, 0.009502504 s
+Graph_115, DataSet_50_115, PC Max, 0.006668004 s
+Graph_115, DataSet_50_115, PC Stable, 0.007947549 s
+Graph_116, DataSet_50_116, PC Max, 0.007525025 s
+Graph_116, DataSet_50_116, PC Stable, 0.009273708 s
+Graph_117, DataSet_50_117, PC Max, 0.006853606 s
+Graph_117, DataSet_50_117, PC Stable, 0.008994877 s
+Graph_118, DataSet_50_118, PC Max, 0.008984185 s
+Graph_118, DataSet_50_118, PC Stable, 0.008532581 s
+Graph_119, DataSet_50_119, PC Max, 0.010360381 s
+Graph_119, DataSet_50_119, PC Stable, 0.010013125 s
+Graph_120, DataSet_50_120, PC Max, 0.007265866 s
+Graph_120, DataSet_50_120, PC Stable, 0.007481405 s
+Graph_101, DataSet_50_101, FGES, 0.001172204 s
+Graph_102, DataSet_50_102, FGES, 0.001347542 s
+Graph_103, DataSet_50_103, FGES, 0.001171348 s
+Graph_104, DataSet_50_104, FGES, 0.001261156 s
+Graph_105, DataSet_50_105, FGES, 0.001467286 s
+Graph_106, DataSet_50_106, FGES, 0.001267998 s
+Graph_107, DataSet_50_107, FGES, 0.0017876 s
+Graph_108, DataSet_50_108, FGES, 0.001410407 s
+Graph_109, DataSet_50_109, FGES, 0.001376195 s
+Graph_110, DataSet_50_110, FGES, 0.001207271 s
+Graph_111, DataSet_50_111, FGES, 0.001324876 s
+Graph_112, DataSet_50_112, FGES, 0.001195725 s
+Graph_113, DataSet_50_113, FGES, 0.001458305 s
+Graph_114, DataSet_50_114, FGES, 0.001521598 s
+Graph_115, DataSet_50_115, FGES, 0.001250464 s
+Graph_116, DataSet_50_116, FGES, 0.001241056 s
+Graph_117, DataSet_50_117, FGES, 0.00115638 s
+Graph_118, DataSet_50_118, FGES, 0.001179474 s
+Graph_119, DataSet_50_119, FGES, 0.001266715 s
+Graph_120, DataSet_50_120, FGES, 0.00117648 s
+Graph_1001, DataSet_50_1001, CPC Stable, 0.023316203 s
+Graph_1002, DataSet_50_1002, CPC Stable, 0.016374072 s
+Graph_1003, DataSet_50_1003, CPC Stable, 0.018984053 s
+Graph_1004, DataSet_50_1004, CPC Stable, 0.022892396 s
+Graph_1005, DataSet_50_1005, CPC Stable, 0.016062311 s
+Graph_1006, DataSet_50_1006, CPC Stable, 0.012053469 s
+Graph_1007, DataSet_50_1007, CPC Stable, 0.018880133 s
+Graph_1008, DataSet_50_1008, CPC Stable, 0.01277193 s
+Graph_1009, DataSet_50_1009, CPC Stable, 0.01594043 s
+Graph_1010, DataSet_50_1010, CPC Stable, 0.027864747 s
+Graph_1011, DataSet_50_1011, CPC Stable, 0.017542427 s
+Graph_1012, DataSet_50_1012, CPC Stable, 0.016067871 s
+Graph_1013, DataSet_50_1013, CPC Stable, 0.021362673 s
+Graph_1014, DataSet_50_1014, CPC Stable, 0.015856182 s
+Graph_1015, DataSet_50_1015, CPC Stable, 0.025774366 s
+Graph_1016, DataSet_50_1016, CPC Stable, 0.019073433 s
+Graph_1017, DataSet_50_1017, CPC Stable, 0.039500396 s
+Graph_1018, DataSet_50_1018, CPC Stable, 0.015211276 s
+Graph_1019, DataSet_50_1019, CPC Stable, 0.015263023 s
+Graph_1020, DataSet_50_1020, CPC Stable, 0.013367226 s
+Graph_1001, DataSet_50_1001, PC Max, 0.018510639 s
+Graph_1001, DataSet_50_1001, PC Stable, 0.012010276 s
+Graph_1002, DataSet_50_1002, PC Max, 0.011190888 s
+Graph_1002, DataSet_50_1002, PC Stable, 0.012013269 s
+Graph_1003, DataSet_50_1003, PC Max, 0.009131727 s
+Graph_1003, DataSet_50_1003, PC Stable, 0.009522604 s
+Graph_1004, DataSet_50_1004, PC Max, 0.016693958 s
+Graph_1004, DataSet_50_1004, PC Stable, 0.01430764 s
+Graph_1005, DataSet_50_1005, PC Max, 0.015720615 s
+Graph_1005, DataSet_50_1005, PC Stable, 0.011482549 s
+Graph_1006, DataSet_50_1006, PC Max, 0.009288248 s
+Graph_1006, DataSet_50_1006, PC Stable, 0.009802291 s
+Graph_1007, DataSet_50_1007, PC Max, 0.017393602 s
+Graph_1007, DataSet_50_1007, PC Stable, 0.011148978 s
+Graph_1008, DataSet_50_1008, PC Max, 0.008230657 s
+Graph_1008, DataSet_50_1008, PC Stable, 0.01007599 s
+Graph_1009, DataSet_50_1009, PC Max, 0.01436067 s
+Graph_1009, DataSet_50_1009, PC Stable, 0.011701081 s
+Graph_1010, DataSet_50_1010, PC Max, 0.019237652 s
+Graph_1010, DataSet_50_1010, PC Stable, 0.015052189 s
+Graph_1011, DataSet_50_1011, PC Max, 0.009393025 s
+Graph_1011, DataSet_50_1011, PC Stable, 0.012536292 s
+Graph_1012, DataSet_50_1012, PC Max, 0.011478272 s
+Graph_1012, DataSet_50_1012, PC Stable, 0.011144701 s
+Graph_1013, DataSet_50_1013, PC Max, 0.013689679 s
+Graph_1013, DataSet_50_1013, PC Stable, 0.021901091 s
+Graph_1014, DataSet_50_1014, PC Max, 0.011373925 s
+Graph_1014, DataSet_50_1014, PC Stable, 0.011495806 s
+Graph_1015, DataSet_50_1015, PC Max, 0.01649852 s
+Graph_1015, DataSet_50_1015, PC Stable, 0.014565517 s
+Graph_1016, DataSet_50_1016, PC Max, 0.013256463 s
+Graph_1016, DataSet_50_1016, PC Stable, 0.012110775 s
+Graph_1017, DataSet_50_1017, PC Max, 0.029102382 s
+Graph_1017, DataSet_50_1017, PC Stable, 0.01481313 s
+Graph_1018, DataSet_50_1018, PC Max, 0.016632376 s
+Graph_1018, DataSet_50_1018, PC Stable, 0.011796448 s
+Graph_1019, DataSet_50_1019, PC Max, 0.010967652 s
+Graph_1019, DataSet_50_1019, PC Stable, 0.013560099 s
+Graph_1020, DataSet_50_1020, PC Max, 0.009935719 s
+Graph_1020, DataSet_50_1020, PC Stable, 0.011012128 s
+Graph_1001, DataSet_50_1001, FGES, 0.015740714 s
+Graph_1002, DataSet_50_1002, FGES, 0.027951988 s
+Graph_1003, DataSet_50_1003, FGES, 0.017406432 s
+Graph_1004, DataSet_50_1004, FGES, 0.018535014 s
+Graph_1005, DataSet_50_1005, FGES, 0.027310933 s
+Graph_1006, DataSet_50_1006, FGES, 0.021097099 s
+Graph_1007, DataSet_50_1007, FGES, 0.015839502 s
+Graph_1008, DataSet_50_1008, FGES, 0.023773367 s
+Graph_1009, DataSet_50_1009, FGES, 0.019157253 s
+Graph_1010, DataSet_50_1010, FGES, 0.023370943 s
+Graph_1011, DataSet_50_1011, FGES, 0.026955978 s
+Graph_1012, DataSet_50_1012, FGES, 0.018227531 s
+Graph_1013, DataSet_50_1013, FGES, 0.023683987 s
+Graph_1014, DataSet_50_1014, FGES, 0.031489127 s
+Graph_1015, DataSet_50_1015, FGES, 0.029132745 s
+Graph_1016, DataSet_50_1016, FGES, 0.019244923 s
+Graph_1017, DataSet_50_1017, FGES, 0.020796884 s
+Graph_1018, DataSet_50_1018, FGES, 0.028288553 s
+Graph_1019, DataSet_50_1019, FGES, 0.027788624 s
+Graph_1020, DataSet_50_1020, FGES, 0.024082134 s
+Graph_3001, DataSet_50_3001, CPC Stable, 0.017107073 s
+Graph_3002, DataSet_50_3002, CPC Stable, 0.022040079 s
+Graph_3003, DataSet_50_3003, CPC Stable, 0.023083131 s
+Graph_3004, DataSet_50_3004, CPC Stable, 0.024520053 s
+Graph_3005, DataSet_50_3005, CPC Stable, 0.016420259 s
+Graph_3006, DataSet_50_3006, CPC Stable, 0.020080134 s
+Graph_3007, DataSet_50_3007, CPC Stable, 0.017931166 s
+Graph_3008, DataSet_50_3008, CPC Stable, 0.023347849 s
+Graph_3009, DataSet_50_3009, CPC Stable, 0.018282699 s
+Graph_3010, DataSet_50_3010, CPC Stable, 0.024245071 s
+Graph_3011, DataSet_50_3011, CPC Stable, 0.023923901 s
+Graph_3012, DataSet_50_3012, CPC Stable, 0.023053194 s
+Graph_3013, DataSet_50_3013, CPC Stable, 0.017031378 s
+Graph_3014, DataSet_50_3014, CPC Stable, 0.020526179 s
+Graph_3015, DataSet_50_3015, CPC Stable, 0.01826602 s
+Graph_3016, DataSet_50_3016, CPC Stable, 0.019867162 s
+Graph_3017, DataSet_50_3017, CPC Stable, 0.024686411 s
+Graph_3018, DataSet_50_3018, CPC Stable, 0.025726896 s
+Graph_3019, DataSet_50_3019, CPC Stable, 0.019547704 s
+Graph_3020, DataSet_50_3020, CPC Stable, 0.016986902 s
+Graph_3001, DataSet_50_3001, PC Max, 0.011018115 s
+Graph_3001, DataSet_50_3001, PC Stable, 0.014476137 s
+Graph_3002, DataSet_50_3002, PC Max, 0.015924179 s
+Graph_3002, DataSet_50_3002, PC Stable, 0.015613273 s
+Graph_3003, DataSet_50_3003, PC Max, 0.015256609 s
+Graph_3003, DataSet_50_3003, PC Stable, 0.018559819 s
+Graph_3004, DataSet_50_3004, PC Max, 0.015012417 s
+Graph_3004, DataSet_50_3004, PC Stable, 0.016923182 s
+Graph_3005, DataSet_50_3005, PC Max, 0.016933017 s
+Graph_3005, DataSet_50_3005, PC Stable, 0.01486231 s
+Graph_3006, DataSet_50_3006, PC Max, 0.021340862 s
+Graph_3006, DataSet_50_3006, PC Stable, 0.016397593 s
+Graph_3007, DataSet_50_3007, PC Max, 0.012696662 s
+Graph_3007, DataSet_50_3007, PC Stable, 0.01323893 s
+Graph_3008, DataSet_50_3008, PC Max, 0.017622398 s
+Graph_3008, DataSet_50_3008, PC Stable, 0.0144338 s
+Graph_3009, DataSet_50_3009, PC Max, 0.023004014 s
+Graph_3009, DataSet_50_3009, PC Stable, 0.014872573 s
+Graph_3010, DataSet_50_3010, PC Max, 0.01614271 s
+Graph_3010, DataSet_50_3010, PC Stable, 0.01526174 s
+Graph_3011, DataSet_50_3011, PC Max, 0.013770078 s
+Graph_3011, DataSet_50_3011, PC Stable, 0.014945703 s
+Graph_3012, DataSet_50_3012, PC Max, 0.014015552 s
+Graph_3012, DataSet_50_3012, PC Stable, 0.014040357 s
+Graph_3013, DataSet_50_3013, PC Max, 0.012157816 s
+Graph_3013, DataSet_50_3013, PC Stable, 0.01512489 s
+Graph_3014, DataSet_50_3014, PC Max, 0.015225389 s
+Graph_3014, DataSet_50_3014, PC Stable, 0.015954114 s
+Graph_3015, DataSet_50_3015, PC Max, 0.010323603 s
+Graph_3015, DataSet_50_3015, PC Stable, 0.012336577 s
+Graph_3016, DataSet_50_3016, PC Max, 0.015309637 s
+Graph_3016, DataSet_50_3016, PC Stable, 0.015756537 s
+Graph_3017, DataSet_50_3017, PC Max, 0.011606141 s
+Graph_3017, DataSet_50_3017, PC Stable, 0.016660601 s
+Graph_3018, DataSet_50_3018, PC Max, 0.023354692 s
+Graph_3018, DataSet_50_3018, PC Stable, 0.020607861 s
+Graph_3019, DataSet_50_3019, PC Max, 0.018416555 s
+Graph_3019, DataSet_50_3019, PC Stable, 0.017100231 s
+Graph_3020, DataSet_50_3020, PC Max, 0.009326738 s
+Graph_3020, DataSet_50_3020, PC Stable, 0.013933442 s
+Graph_3001, DataSet_50_3001, FGES, 0.108723273 s
+Graph_3002, DataSet_50_3002, FGES, 0.142667997 s
+Graph_3003, DataSet_50_3003, FGES, 0.140969777 s
+Graph_3004, DataSet_50_3004, FGES, 0.080152895 s
+Graph_3005, DataSet_50_3005, FGES, 0.136820236 s
+Graph_3006, DataSet_50_3006, FGES, 0.125986868 s
+Graph_3007, DataSet_50_3007, FGES, 0.105630469 s
+Graph_3008, DataSet_50_3008, FGES, 0.116714015 s
+Graph_3009, DataSet_50_3009, FGES, 0.131423652 s
+Graph_3010, DataSet_50_3010, FGES, 0.143206843 s
+Graph_3011, DataSet_50_3011, FGES, 0.075368714 s
+Graph_3012, DataSet_50_3012, FGES, 0.082085471 s
+Graph_3013, DataSet_50_3013, FGES, 0.113748652 s
+Graph_3014, DataSet_50_3014, FGES, 0.089474501 s
+Graph_3015, DataSet_50_3015, FGES, 0.095306866 s
+Graph_3016, DataSet_50_3016, FGES, 0.126360212 s
+Graph_3017, DataSet_50_3017, FGES, 0.101933815 s
+Graph_3018, DataSet_50_3018, FGES, 0.125986013 s
+Graph_3019, DataSet_50_3019, FGES, 0.144236637 s
+Graph_3020, DataSet_50_3020, FGES, 0.140484815 s
+Graph_5001, DataSet_50_5001, CPC Stable, 0.00497962 s
+Graph_5002, DataSet_50_5002, CPC Stable, 0.005120747 s
+Graph_5003, DataSet_50_5003, CPC Stable, 0.005804995 s
+Graph_5004, DataSet_50_5004, CPC Stable, 0.005355101 s
+Graph_5005, DataSet_50_5005, CPC Stable, 0.005595871 s
+Graph_5006, DataSet_50_5006, CPC Stable, 0.005330297 s
+Graph_5007, DataSet_50_5007, CPC Stable, 0.003741557 s
+Graph_5008, DataSet_50_5008, CPC Stable, 0.004858593 s
+Graph_5009, DataSet_50_5009, CPC Stable, 0.005083968 s
+Graph_5010, DataSet_50_5010, CPC Stable, 0.004968928 s
+Graph_5011, DataSet_50_5011, CPC Stable, 0.005320034 s
+Graph_5012, DataSet_50_5012, CPC Stable, 0.005168216 s
+Graph_5013, DataSet_50_5013, CPC Stable, 0.005035215 s
+Graph_5014, DataSet_50_5014, CPC Stable, 0.004199576 s
+Graph_5015, DataSet_50_5015, CPC Stable, 0.004981759 s
+Graph_5016, DataSet_50_5016, CPC Stable, 0.005436356 s
+Graph_5017, DataSet_50_5017, CPC Stable, 0.005440205 s
+Graph_5018, DataSet_50_5018, CPC Stable, 0.00541198 s
+Graph_5019, DataSet_50_5019, CPC Stable, 0.005374347 s
+Graph_5020, DataSet_50_5020, CPC Stable, 0.004404423 s
+Graph_5001, DataSet_50_5001, PC Max, 0.004677696 s
+Graph_5001, DataSet_50_5001, PC Stable, 0.003793304 s
+Graph_5002, DataSet_50_5002, PC Max, 0.004886391 s
+Graph_5002, DataSet_50_5002, PC Stable, 0.003690239 s
+Graph_5003, DataSet_50_5003, PC Max, 0.005482115 s
+Graph_5003, DataSet_50_5003, PC Stable, 0.004187174 s
+Graph_5004, DataSet_50_5004, PC Max, 0.004844481 s
+Graph_5004, DataSet_50_5004, PC Stable, 0.00388354 s
+Graph_5005, DataSet_50_5005, PC Max, 0.005160946 s
+Graph_5005, DataSet_50_5005, PC Stable, 0.004137566 s
+Graph_5006, DataSet_50_5006, PC Max, 0.004591309 s
+Graph_5006, DataSet_50_5006, PC Stable, 0.003933575 s
+Graph_5007, DataSet_50_5007, PC Max, 0.003781329 s
+Graph_5007, DataSet_50_5007, PC Stable, 0.00350934 s
+Graph_5008, DataSet_50_5008, PC Max, 0.004559662 s
+Graph_5008, DataSet_50_5008, PC Stable, 0.003795442 s
+Graph_5009, DataSet_50_5009, PC Max, 0.004731152 s
+Graph_5009, DataSet_50_5009, PC Stable, 0.003995585 s
+Graph_5010, DataSet_50_5010, PC Max, 0.004700361 s
+Graph_5010, DataSet_50_5010, PC Stable, 0.003534144 s
+Graph_5011, DataSet_50_5011, PC Max, 0.004906063 s
+Graph_5011, DataSet_50_5011, PC Stable, 0.003641486 s
+Graph_5012, DataSet_50_5012, PC Max, 0.005145122 s
+Graph_5012, DataSet_50_5012, PC Stable, 0.003612833 s
+Graph_5013, DataSet_50_5013, PC Max, 0.004724737 s
+Graph_5013, DataSet_50_5013, PC Stable, 0.003538849 s
+Graph_5014, DataSet_50_5014, PC Max, 0.004561373 s
+Graph_5014, DataSet_50_5014, PC Stable, 0.003625663 s
+Graph_5015, DataSet_50_5015, PC Max, 0.004643056 s
+Graph_5015, DataSet_50_5015, PC Stable, 0.003517467 s
+Graph_5016, DataSet_50_5016, PC Max, 0.005050184 s
+Graph_5016, DataSet_50_5016, PC Stable, 0.00387071 s
+Graph_5017, DataSet_50_5017, PC Max, 0.004711908 s
+Graph_5017, DataSet_50_5017, PC Stable, 0.003694943 s
+Graph_5018, DataSet_50_5018, PC Max, 0.004442057 s
+Graph_5018, DataSet_50_5018, PC Stable, 0.003576483 s
+Graph_5019, DataSet_50_5019, PC Max, 0.004895372 s
+Graph_5019, DataSet_50_5019, PC Stable, 0.003889099 s
+Graph_5020, DataSet_50_5020, PC Max, 0.004482685 s
+Graph_5020, DataSet_50_5020, PC Stable, 0.003644479 s
+Graph_5001, DataSet_50_5001, FGES, 0.06755887 s
+Graph_5002, DataSet_50_5002, FGES, 0.05678623 s
+Graph_5003, DataSet_50_5003, FGES, 0.086519402 s
+Graph_5004, DataSet_50_5004, FGES, 0.065783245 s
+Graph_5005, DataSet_50_5005, FGES, 0.06281104 s
+Graph_5006, DataSet_50_5006, FGES, 0.067679041 s
+Graph_5007, DataSet_50_5007, FGES, 0.091826179 s
+Graph_5008, DataSet_50_5008, FGES, 0.073841129 s
+Graph_5009, DataSet_50_5009, FGES, 0.063632137 s
+Graph_5010, DataSet_50_5010, FGES, 0.082316832 s
+Graph_5011, DataSet_50_5011, FGES, 0.084608637 s
+Graph_5012, DataSet_50_5012, FGES, 0.064646964 s
+Graph_5013, DataSet_50_5013, FGES, 0.06681646 s
+Graph_5014, DataSet_50_5014, FGES, 0.078334932 s
+Graph_5015, DataSet_50_5015, FGES, 0.069001352 s
+Graph_5016, DataSet_50_5016, FGES, 0.062801203 s
+Graph_5017, DataSet_50_5017, FGES, 0.061185093 s
+Graph_5018, DataSet_50_5018, FGES, 0.06925709 s
+Graph_5019, DataSet_50_5019, FGES, 0.060466632 s
+Graph_5020, DataSet_50_5020, FGES, 0.067043973 s
+Graph_10001, DataSet_50_10001, CPC Stable, 0.0335222 s
+Graph_10002, DataSet_50_10002, CPC Stable, 0.050159708 s
+Graph_10003, DataSet_50_10003, CPC Stable, 0.031717495 s
+Graph_10004, DataSet_50_10004, CPC Stable, 0.029287128 s
+Graph_10005, DataSet_50_10005, CPC Stable, 0.030339161 s
+Graph_10006, DataSet_50_10006, CPC Stable, 0.04254573 s
+Graph_10007, DataSet_50_10007, CPC Stable, 0.034741873 s
+Graph_10008, DataSet_50_10008, CPC Stable, 0.034183784 s
+Graph_10009, DataSet_50_10009, CPC Stable, 0.030485846 s
+Graph_10010, DataSet_50_10010, CPC Stable, 0.035036529 s
+Graph_10011, DataSet_50_10011, CPC Stable, 0.025649063 s
+Graph_10012, DataSet_50_10012, CPC Stable, 0.037733751 s
+Graph_10013, DataSet_50_10013, CPC Stable, 0.029016422 s
+Graph_10014, DataSet_50_10014, CPC Stable, 0.030065889 s
+Graph_10015, DataSet_50_10015, CPC Stable, 0.027946001 s
+Graph_10016, DataSet_50_10016, CPC Stable, 0.031194043 s
+Graph_10017, DataSet_50_10017, CPC Stable, 0.027614996 s
+Graph_10018, DataSet_50_10018, CPC Stable, 0.029653629 s
+Graph_10019, DataSet_50_10019, CPC Stable, 0.027397319 s
+Graph_10020, DataSet_50_10020, CPC Stable, 0.029889267 s
+Graph_10001, DataSet_50_10001, PC Max, 0.022761533 s
+Graph_10001, DataSet_50_10001, PC Stable, 0.025676433 s
+Graph_10002, DataSet_50_10002, PC Max, 0.039487566 s
+Graph_10002, DataSet_50_10002, PC Stable, 0.027944718 s
+Graph_10003, DataSet_50_10003, PC Max, 0.016525034 s
+Graph_10003, DataSet_50_10003, PC Stable, 0.022490828 s
+Graph_10004, DataSet_50_10004, PC Max, 0.020458609 s
+Graph_10004, DataSet_50_10004, PC Stable, 0.027660754 s
+Graph_10005, DataSet_50_10005, PC Max, 0.022057613 s
+Graph_10005, DataSet_50_10005, PC Stable, 0.028363392 s
+Graph_10006, DataSet_50_10006, PC Max, 0.027494825 s
+Graph_10006, DataSet_50_10006, PC Stable, 0.038396617 s
+Graph_10007, DataSet_50_10007, PC Max, 0.027366527 s
+Graph_10007, DataSet_50_10007, PC Stable, 0.029530892 s
+Graph_10008, DataSet_50_10008, PC Max, 0.032807161 s
+Graph_10008, DataSet_50_10008, PC Stable, 0.027009435 s
+Graph_10009, DataSet_50_10009, PC Max, 0.02024863 s
+Graph_10009, DataSet_50_10009, PC Stable, 0.027591903 s
+Graph_10010, DataSet_50_10010, PC Max, 0.025106368 s
+Graph_10010, DataSet_50_10010, PC Stable, 0.029477863 s
+Graph_10011, DataSet_50_10011, PC Max, 0.021856187 s
+Graph_10011, DataSet_50_10011, PC Stable, 0.022300094 s
+Graph_10012, DataSet_50_10012, PC Max, 0.02335683 s
+Graph_10012, DataSet_50_10012, PC Stable, 0.02872134 s
+Graph_10013, DataSet_50_10013, PC Max, 0.017400873 s
+Graph_10013, DataSet_50_10013, PC Stable, 0.025073867 s
+Graph_10014, DataSet_50_10014, PC Max, 0.021972082 s
+Graph_10014, DataSet_50_10014, PC Stable, 0.021610713 s
+Graph_10015, DataSet_50_10015, PC Max, 0.020645067 s
+Graph_10015, DataSet_50_10015, PC Stable, 0.036854919 s
+Graph_10016, DataSet_50_10016, PC Max, 0.017649768 s
+Graph_10016, DataSet_50_10016, PC Stable, 0.021337014 s
+Graph_10017, DataSet_50_10017, PC Max, 0.020857184 s
+Graph_10017, DataSet_50_10017, PC Stable, 0.026359827 s
+Graph_10018, DataSet_50_10018, PC Max, 0.021995603 s
+Graph_10018, DataSet_50_10018, PC Stable, 0.024894679 s
+Graph_10019, DataSet_50_10019, PC Max, 0.017920046 s
+Graph_10019, DataSet_50_10019, PC Stable, 0.021109928 s
+Graph_10020, DataSet_50_10020, PC Max, 0.024443075 s
+Graph_10020, DataSet_50_10020, PC Stable, 0.023729746 s
+Graph_10001, DataSet_50_10001, FGES, 1.102911008 s
+Graph_10002, DataSet_50_10002, FGES, 1.085912132 s
+Graph_10003, DataSet_50_10003, FGES, 1.019330027 s
+Graph_10004, DataSet_50_10004, FGES, 1.597398315 s
+Graph_10005, DataSet_50_10005, FGES, 0.908149018 s
+Graph_10006, DataSet_50_10006, FGES, 1.472943309 s
+Graph_10007, DataSet_50_10007, FGES, 0.797586398 s
+Graph_10008, DataSet_50_10008, FGES, 1.079475916 s
+Graph_10009, DataSet_50_10009, FGES, 1.226181409 s
+Graph_10010, DataSet_50_10010, FGES, 0.868729448 s
+Graph_10011, DataSet_50_10011, FGES, 1.197770974 s
+Graph_10012, DataSet_50_10012, FGES, 0.957511575 s
+Graph_10013, DataSet_50_10013, FGES, 0.87850608 s
+Graph_10014, DataSet_50_10014, FGES, 0.818246433 s
+Graph_10015, DataSet_50_10015, FGES, 1.577172351 s
+Graph_10016, DataSet_50_10016, FGES, 0.942284476 s
+Graph_10017, DataSet_50_10017, FGES, 0.974759775 s
+Graph_10018, DataSet_50_10018, FGES, 0.862935145 s
+Graph_10019, DataSet_50_10019, FGES, 0.881823403 s
+Graph_10020, DataSet_50_10020, FGES, 1.121208246 s

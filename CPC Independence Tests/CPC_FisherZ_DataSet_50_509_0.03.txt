@@ -1,0 +1,48 @@
+Graph Nodes:
+X1,X2,X3,X4,X5,X6,X7,X8,X9,X10,X11,X12,X13,X14,X15,X16,X17,X18,X19,X20,X21,X22,X23,X24,X25,X26,X27,X28,X29,X30,X31,X32,X33,X34,X35,X36,X37,X38,X39,X40,X41,X42,X43,X44,X45,X46,X47,X48,X49,X50
+
+Graph Edges:
+1. X1 --- X36
+2. X1 --- X39
+3. X10 --- X12
+4. X13 --- X42
+5. X15 --- X28
+6. X15 --- X35
+7. X16 --- X22
+8. X18 --- X23
+9. X19 --- X50
+10. X20 --- X38
+11. X20 --- X41
+12. X23 --- X32
+13. X24 --- X43
+14. X27 --- X50
+15. X28 --- X38
+16. X29 --- X30
+17. X3 --- X32
+18. X3 --- X38
+19. X30 --- X41
+20. X31 --- X39
+21. X45 --- X48
+22. X6 --- X18
+23. X6 --- X43
+24. X9 --- X40
+
+
+Ambiguous triples (i.e. list of triples for which there is ambiguous data about whether they are colliders or not):
+<X41, X30, X29>
+<X1, X39, X31>
+<X27, X50, X19>
+<X38, X28, X15>
+<X36, X1, X39>
+<X38, X20, X41>
+<X18, X23, X32>
+<X20, X38, X28>
+<X3, X38, X20>
+<X28, X15, X35>
+<X23, X32, X3>
+<X18, X6, X43>
+<X38, X3, X32>
+<X3, X38, X28>
+<X30, X41, X20>
+<X6, X43, X24>
+<X23, X18, X6>
